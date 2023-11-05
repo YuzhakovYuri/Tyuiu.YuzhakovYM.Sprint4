@@ -21,6 +21,7 @@ namespace Tyuiu.YuzhakovYM.Sprint4.Task1.V19.Lib
                 }
             }
             return summa;
+
         }
     }
 }

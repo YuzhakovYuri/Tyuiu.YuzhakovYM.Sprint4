@@ -18,6 +18,7 @@ namespace Tyuiu.YuzhakovYM.Sprint4.Task1.V19.Test
             int res = ds.Calculate(nArray);
 
             Assert.AreEqual(wait, res);
+
         }
     }
 }

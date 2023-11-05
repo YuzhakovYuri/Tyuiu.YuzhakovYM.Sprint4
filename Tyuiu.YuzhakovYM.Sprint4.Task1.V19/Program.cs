@@ -56,8 +56,7 @@ namespace Tyuiu.YuzhakovYM.Sprint4.Task1.V19
 
             int res = ds.Calculate(nArray);
             Console.WriteLine(res);
-            Console.ReadLine();
-
+            Console.ReadKey();
         }
     }
 }
