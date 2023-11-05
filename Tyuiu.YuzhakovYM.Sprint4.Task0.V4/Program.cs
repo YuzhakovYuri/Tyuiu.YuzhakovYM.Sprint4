@@ -41,6 +41,7 @@ namespace Tyuiu.YuzhakovYM.Sprint4.Task0.V4
 
             Console.WriteLine("Результат = " + ds.GetMultEvenArrEl(nArray));
             Console.ReadKey();
+
         }
     }
 }
