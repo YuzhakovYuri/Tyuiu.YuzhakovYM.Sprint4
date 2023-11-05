@@ -18,7 +18,6 @@ namespace Tyuiu.YuzhakovYM.Sprint4.Task0.V4.Test
             int res = ds.GetMultEvenArrEl(nArray);
 
             Assert.AreEqual(wait, res);
-
         }
     }
 }
